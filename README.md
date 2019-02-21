@@ -9,4 +9,4 @@ Back End Development:
 2) Sex Machine (For gender identifaction of records)
 
 
-Demo can be seen on this [link](https://studio.youtube.com/video/ozD6L5GmkNM/edit)
+Demo can be seen on this [link](https://youtu.be/ozD6L5GmkNM)
